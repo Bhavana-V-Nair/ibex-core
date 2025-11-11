@@ -1,0 +1,5 @@
+"Introduce yourself" .
+"What do you know about our company?" .
+"Why do you want to work at Foxconn?" .
+"What are your future career aspirations?" .
+"What is your expected CTC (Cost To Company)?" 
